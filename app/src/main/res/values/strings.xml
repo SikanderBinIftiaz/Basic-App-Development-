@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App / Splash -->
+    <string name="app_name">Common Screens</string>
+    <string name="tagline">Your all-in-one starter app</string>
+    <string name="logo_desc">App logo</string>
+
+    <!-- Login -->
+    <string name="login">Login</string>
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to continue</string>
+    <string name="email_or_username">Email or username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="full_name">Full name</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="no_account">Don\'t have an account? Register</string>
+    <string name="have_account">Already have an account? Login</string>
+
+    <!-- Register -->
+    <string name="register">Register</string>
+    <string name="register_title">Create Account</string>
+    <string name="register_success">Registration successful. Please login.</string>
+
+    <!-- Forgot password -->
+    <string name="forgot_title">Forgot Password</string>
+    <string name="forgot_subtitle">Enter your email and we will send a recovery link (simulated).</string>
+    <string name="send_recovery">Send Recovery Link</string>
+    <string name="recovery_sent">Recovery link sent to %1$s (simulated)</string>
+    <string name="back_to_login">Back to Login</string>
+
+    <!-- Reset password -->
+    <string name="reset_title">Reset Password</string>
+    <string name="new_password">New password</string>
+    <string name="save_password">Save Password</string>
+    <string name="reset_success">Password updated. Please login.</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="welcome_user">Welcome, %1$s</string>
+    <string name="module_opened">%1$s module opened</string>
+    <string name="module_profile">Profile</string>
+    <string name="module_messages">Messages</string>
+    <string name="module_notifications">Notifications</string>
+    <string name="module_favorites">Favorites</string>
+    <string name="module_security">Security</string>
+    <string name="module_about">About</string>
+
+    <!-- Profile -->
+    <string name="profile_title">My Profile</string>
+    <string name="logout">Logout</string>
+    <string name="avatar_desc">User avatar</string>
+    <string name="icon_desc">Module icon</string>
+
+    <!-- Validation errors -->
+    <string name="err_required">This field is required</string>
+    <string name="err_email">Enter a valid email address</string>
+    <string name="err_password_len">Password must be at least 6 characters</string>
+    <string name="err_password_match">Passwords do not match</string>
+    <string name="err_invalid_credentials">Invalid email/username or password</string>
+    <string name="err_no_account">No account found with this email</string>
+</resources>
